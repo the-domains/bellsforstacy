@@ -2,13 +2,13 @@
     <channel>
         <title><![CDATA[BellsForStacy]]></title>
         <description><![CDATA[BellsForStacy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bellsforstacy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:27:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 18:55:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bellsforstacy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Julia Tulip]]></title>
-            <description><![CDATA[<article><h1>Julia Tulip</h1><p>On the day of the birthday party for sweetie face my camera broke.  Some investigating led me to the already assumed conclusion that the lovely shutter on my lovely NIKON D7000 had - after roughly 300,000 actuations - died.
+            <title><![CDATA[Mirrorless]]></title>
+            <description><![CDATA[<article><h1>Mirrorless</h1><p>On the day of the birthday party for sweetie face my camera broke.  Some investigating led me to the already assumed conclusion that the lovely shutter on my lovely NIKON D7000 had - after roughly 300,000 actuations - died.
 
 This was not it's first threat to leave us.  There were other issues I had worked through.  There was the time Lewis left it on an airplane.  And that time (which was about a year ago to the day) whilst I was mentally calculating how I could afford to replace it whilst being on vacation (already a budgeting enterprise) - Lewis was talking about mirrorless cameras.  I was (probably angrily) throwing that idea off because mirrorless - BAH - everyone knows DSLR's are the best.
 
@@ -25,9 +25,9 @@ Well.  Because it's so much lighter and smaller.  Now obviously this depends on 
 I don't know.  We're feeling each other out.  It has a lot of perks that I like.  The biggest down side I'm having is just getting to know it.  The LCD screen is easier to see but it isn't true to what they look on screen / printed.  That was true of my last as well but I was so familiar I knew how to compensate.  It will take time.
 
 I still have my beloved NIKON.  I may fix it yet.  But.  Till then.  The introductions continue.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1efd707-dcd4-42c6-bf33-1afadc3499ac.jpg"></article>]]></description>
-            <link>undefinedjulia-tulip/index.html</link>
+            <link>https://thegrid.ai/bellsforstacy/julia-tulip/index.html</link>
             <guid isPermaLink="false">91c1b90f-0c61-4567-b289-0555d5c570c2</guid>
-            <pubDate>Sun, 20 Mar 2016 18:27:09 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 18:55:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
