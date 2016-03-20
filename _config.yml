@@ -1,7 +1,7 @@
 name: BellsForStacy
 favicon: null
-layout_spectrum: 0.6693918139208108
-typography_spectrum: 0.11972269020043314
+layout_spectrum: 1
+typography_spectrum: 0.11972
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7440481395460665
-  lightness: 0.9625898615922779
-  saturation: 0.620343473739922
-  rhythmicContrast: 0.8293388686142862
+  brandStrength: 0.8125
+  lightness: 0.9375
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
